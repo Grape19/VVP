@@ -1,0 +1,14 @@
+C:\Users\Надя\source\repos\Задание 2\bin\Debug\Задание 2.exe.config
+C:\Users\Надя\source\repos\Задание 2\bin\Debug\Задание 2.exe
+C:\Users\Надя\source\repos\Задание 2\bin\Debug\Задание 2.pdb
+C:\Users\Надя\source\repos\Задание 2\obj\Debug\Задание 2.csprojAssemblyReference.cache
+C:\Users\Надя\source\repos\Задание 2\obj\Debug\Задание 2.csproj.CoreCompileInputs.cache
+C:\Users\Надя\source\repos\Задание 2\obj\Debug\Задание 2.exe
+C:\Users\Надя\source\repos\Задание 2\obj\Debug\Задание 2.pdb
+C:\Users\Надя\Desktop\С#\Лабораторная работа 2\Задание 2\bin\Debug\Задание 2.exe.config
+C:\Users\Надя\Desktop\С#\Лабораторная работа 2\Задание 2\bin\Debug\Задание 2.exe
+C:\Users\Надя\Desktop\С#\Лабораторная работа 2\Задание 2\bin\Debug\Задание 2.pdb
+C:\Users\Надя\Desktop\С#\Лабораторная работа 2\Задание 2\obj\Debug\Задание 2.csprojAssemblyReference.cache
+C:\Users\Надя\Desktop\С#\Лабораторная работа 2\Задание 2\obj\Debug\Задание 2.csproj.CoreCompileInputs.cache
+C:\Users\Надя\Desktop\С#\Лабораторная работа 2\Задание 2\obj\Debug\Задание 2.exe
+C:\Users\Надя\Desktop\С#\Лабораторная работа 2\Задание 2\obj\Debug\Задание 2.pdb

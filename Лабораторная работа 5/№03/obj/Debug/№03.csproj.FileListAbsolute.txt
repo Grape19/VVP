@@ -1,0 +1,7 @@
+C:\Users\Надя\source\repos\№03\bin\Debug\№03.exe.config
+C:\Users\Надя\source\repos\№03\bin\Debug\№03.exe
+C:\Users\Надя\source\repos\№03\bin\Debug\№03.pdb
+C:\Users\Надя\source\repos\№03\obj\Debug\№03.csprojAssemblyReference.cache
+C:\Users\Надя\source\repos\№03\obj\Debug\№03.csproj.CoreCompileInputs.cache
+C:\Users\Надя\source\repos\№03\obj\Debug\№03.exe
+C:\Users\Надя\source\repos\№03\obj\Debug\№03.pdb

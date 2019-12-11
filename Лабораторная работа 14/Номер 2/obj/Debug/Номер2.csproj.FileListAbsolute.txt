@@ -1,0 +1,7 @@
+C:\Users\Надя\Desktop\С#\Лабораторная работа 14\Номер 2\Номер2\obj\Debug\Номер2.csprojAssemblyReference.cache
+C:\Users\Надя\Desktop\С#\Лабораторная работа 14\Номер 2\Номер2\obj\Debug\Номер2.csproj.CoreCompileInputs.cache
+C:\Users\Надя\Desktop\С#\Лабораторная работа 14\Номер 2\Номер2\bin\Debug\Номер2.exe.config
+C:\Users\Надя\Desktop\С#\Лабораторная работа 14\Номер 2\Номер2\bin\Debug\Номер2.exe
+C:\Users\Надя\Desktop\С#\Лабораторная работа 14\Номер 2\Номер2\bin\Debug\Номер2.pdb
+C:\Users\Надя\Desktop\С#\Лабораторная работа 14\Номер 2\Номер2\obj\Debug\Номер2.exe
+C:\Users\Надя\Desktop\С#\Лабораторная работа 14\Номер 2\Номер2\obj\Debug\Номер2.pdb

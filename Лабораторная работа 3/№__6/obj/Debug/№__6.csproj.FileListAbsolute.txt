@@ -1,0 +1,7 @@
+C:\Users\Надя\source\repos\№__6\bin\Debug\№__6.exe.config
+C:\Users\Надя\source\repos\№__6\bin\Debug\№__6.exe
+C:\Users\Надя\source\repos\№__6\bin\Debug\№__6.pdb
+C:\Users\Надя\source\repos\№__6\obj\Debug\№__6.csprojAssemblyReference.cache
+C:\Users\Надя\source\repos\№__6\obj\Debug\№__6.csproj.CoreCompileInputs.cache
+C:\Users\Надя\source\repos\№__6\obj\Debug\№__6.exe
+C:\Users\Надя\source\repos\№__6\obj\Debug\№__6.pdb

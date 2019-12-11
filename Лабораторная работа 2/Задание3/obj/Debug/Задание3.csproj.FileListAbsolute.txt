@@ -1,0 +1,14 @@
+C:\Users\Надя\source\repos\Задание3\bin\Debug\Задание3.exe.config
+C:\Users\Надя\source\repos\Задание3\bin\Debug\Задание3.exe
+C:\Users\Надя\source\repos\Задание3\bin\Debug\Задание3.pdb
+C:\Users\Надя\source\repos\Задание3\obj\Debug\Задание3.csprojAssemblyReference.cache
+C:\Users\Надя\source\repos\Задание3\obj\Debug\Задание3.csproj.CoreCompileInputs.cache
+C:\Users\Надя\source\repos\Задание3\obj\Debug\Задание3.exe
+C:\Users\Надя\source\repos\Задание3\obj\Debug\Задание3.pdb
+C:\Users\Надя\Desktop\С#\Лабораторная работа 2\Задание3\bin\Debug\Задание3.exe.config
+C:\Users\Надя\Desktop\С#\Лабораторная работа 2\Задание3\bin\Debug\Задание3.exe
+C:\Users\Надя\Desktop\С#\Лабораторная работа 2\Задание3\bin\Debug\Задание3.pdb
+C:\Users\Надя\Desktop\С#\Лабораторная работа 2\Задание3\obj\Debug\Задание3.csprojAssemblyReference.cache
+C:\Users\Надя\Desktop\С#\Лабораторная работа 2\Задание3\obj\Debug\Задание3.csproj.CoreCompileInputs.cache
+C:\Users\Надя\Desktop\С#\Лабораторная работа 2\Задание3\obj\Debug\Задание3.exe
+C:\Users\Надя\Desktop\С#\Лабораторная работа 2\Задание3\obj\Debug\Задание3.pdb

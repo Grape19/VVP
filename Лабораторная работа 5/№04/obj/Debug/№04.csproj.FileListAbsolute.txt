@@ -1,0 +1,14 @@
+C:\Users\Надя\source\repos\№04\obj\Debug\№04.csprojAssemblyReference.cache
+C:\Users\Надя\source\repos\№04\obj\Debug\№04.csproj.CoreCompileInputs.cache
+C:\Users\Надя\source\repos\№04\bin\Debug\№04.exe.config
+C:\Users\Надя\source\repos\№04\bin\Debug\№04.exe
+C:\Users\Надя\source\repos\№04\bin\Debug\№04.pdb
+C:\Users\Надя\source\repos\№04\obj\Debug\№04.exe
+C:\Users\Надя\source\repos\№04\obj\Debug\№04.pdb
+C:\Users\Надя\Desktop\С#\Лабораторная работа 5\№04\bin\Debug\№04.exe.config
+C:\Users\Надя\Desktop\С#\Лабораторная работа 5\№04\bin\Debug\№04.exe
+C:\Users\Надя\Desktop\С#\Лабораторная работа 5\№04\bin\Debug\№04.pdb
+C:\Users\Надя\Desktop\С#\Лабораторная работа 5\№04\obj\Debug\№04.csprojAssemblyReference.cache
+C:\Users\Надя\Desktop\С#\Лабораторная работа 5\№04\obj\Debug\№04.csproj.CoreCompileInputs.cache
+C:\Users\Надя\Desktop\С#\Лабораторная работа 5\№04\obj\Debug\№04.exe
+C:\Users\Надя\Desktop\С#\Лабораторная работа 5\№04\obj\Debug\№04.pdb
