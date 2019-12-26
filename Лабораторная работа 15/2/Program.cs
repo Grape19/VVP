@@ -10,7 +10,7 @@ namespace _2
     {
         static void Main(string[] args)
         {
-            int N, x, y, z=0;
+            int N, x, y, z=0,a=0;
             Console.WriteLine("Введите размер массива:" );
             N = int.Parse(Console.ReadLine());
             int[] A = new int[N];
@@ -22,11 +22,19 @@ namespace _2
             int[] B = new int[N];
             for(x=0;x<N;x++)
             {
+                z = 0;
+                a = 0;
+                for(y=1;y>x;y--)
+                {
+                    z += A[y];
+                    a += 2;
+                }
                 for(y=1;y<=x;y++)
                 {
                     z += A[y];
+                    a++;
                 }
-                B[x] = z / (y);
+                B[x] = z / a;
                 Console.WriteLine("Массив: " + B[x]);
             }
             Console.ReadKey();
